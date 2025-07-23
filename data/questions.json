@@ -1,0 +1,186 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "🌅 Es sábado por la mañana y tienes el día libre. ¿Qué plan te emociona más?",
+      "options": [
+        {
+          "text": "🌳 Ir a un parque natural y conectar con la naturaleza",
+          "weights": [5, 2, 2, 3, 2]
+        },
+        {
+          "text": "🏁 Ir a una pista de carreras o evento automovilístico",
+          "weights": [1, 5, 3, 2, 3]
+        },
+        {
+          "text": "🛍️ Un día de spa seguido de shopping en el mall más exclusivo",
+          "weights": [2, 2, 5, 2, 3]
+        },
+        {
+          "text": "🏕️ Camping con amigos con todo el equipo necesario",
+          "weights": [3, 3, 2, 5, 2]
+        },
+        {
+          "text": "🤖 Visitar una expo de tecnología o probar los últimos gadgets",
+          "weights": [2, 3, 3, 2, 5]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "💰 Te ganaste la lotería. ¿En qué gastarías primero una buena parte?",
+      "options": [
+        {
+          "text": "🌱 Instalar paneles solares y hacer tu casa 100% sustentable",
+          "weights": [5, 1, 2, 3, 4]
+        },
+        {
+          "text": "🏎️ Un auto deportivo que acelere de 0-100 en menos de 4 segundos",
+          "weights": [1, 5, 4, 2, 3]
+        },
+        {
+          "text": "🏖️ Una villa privada en la playa con chef personal",
+          "weights": [2, 2, 5, 2, 3]
+        },
+        {
+          "text": "🚐 Una casa rodante de lujo para recorrer el mundo",
+          "weights": [3, 3, 3, 5, 3]
+        },
+        {
+          "text": "🤯 Invertir en la próxima startup de IA o tecnología espacial",
+          "weights": [2, 3, 2, 3, 5]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "🎬 Si fueras el protagonista de una película, ¿cuál sería tu género favorito?",
+      "options": [
+        {
+          "text": "🌍 Documental sobre conservación marina y vida salvaje",
+          "weights": [5, 2, 1, 3, 2]
+        },
+        {
+          "text": "💥 Acción con persecuciones de autos y explosiones",
+          "weights": [1, 5, 3, 3, 3]
+        },
+        {
+          "text": "👑 Drama romántico en palacios europeos",
+          "weights": [2, 1, 5, 2, 2]
+        },
+        {
+          "text": "🗺️ Aventura épica estilo Indiana Jones",
+          "weights": [3, 4, 2, 5, 3]
+        },
+        {
+          "text": "🚀 Ciencia ficción con viajes en el tiempo",
+          "weights": [2, 3, 3, 3, 5]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "🍕 Estás organizando una cena con amigos. ¿Cómo la planificas?",
+      "options": [
+        {
+          "text": "🥗 Menú 100% orgánico y de temporada, sin plásticos",
+          "weights": [5, 1, 2, 3, 2]
+        },
+        {
+          "text": "🥩 Asado al carbón con los mejores cortes de carne",
+          "weights": [2, 4, 3, 4, 2]
+        },
+        {
+          "text": "🍾 Chef privado y sommelier para una experiencia gourmet",
+          "weights": [1, 2, 5, 2, 3]
+        },
+        {
+          "text": "🍜 Buffet variado para que cada uno elija lo que quiera",
+          "weights": [3, 2, 2, 5, 2]
+        },
+        {
+          "text": "📱 Ordenar por app mientras probamos el nuevo juego VR",
+          "weights": [2, 2, 3, 2, 5]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "🎵 Tu playlist perfecta para un road trip incluye:",
+      "options": [
+        {
+          "text": "🌿 Sonidos de la naturaleza y música relajante",
+          "weights": [5, 1, 2, 2, 2]
+        },
+        {
+          "text": "🔥 Rock clásico y metal para sentir la adrenalina",
+          "weights": [1, 5, 2, 3, 2]
+        },
+        {
+          "text": "🎼 Jazz suave y música clásica para un viaje elegante",
+          "weights": [2, 2, 5, 2, 3]
+        },
+        {
+          "text": "🌎 Música de diferentes países y culturas",
+          "weights": [3, 2, 3, 5, 3]
+        },
+        {
+          "text": "🎧 Los últimos hits y podcasts de tecnología",
+          "weights": [2, 3, 3, 2, 5]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "🏠 Tu hogar ideal estaría ubicado en:",
+      "options": [
+        {
+          "text": "🌲 Una cabaña ecológica en medio del bosque",
+          "weights": [5, 2, 1, 3, 2]
+        },
+        {
+          "text": "🏔️ Una casa en las montañas con vista panorámica",
+          "weights": [3, 4, 3, 4, 2]
+        },
+        {
+          "text": "🏙️ Un penthouse en el centro de la ciudad más cosmopolita",
+          "weights": [1, 3, 5, 2, 4]
+        },
+        {
+          "text": "🚤 Una casa frente al lago con muelle privado",
+          "weights": [3, 3, 4, 5, 3]
+        },
+        {
+          "text": "🌆 Una smart home en un barrio innovador y tecnológico",
+          "weights": [2, 2, 4, 2, 5]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "⚡ Si pudieras tener un superpoder, ¿cuál elegirías?",
+      "options": [
+        {
+          "text": "🌱 Poder hacer crecer plantas y purificar el aire al instante",
+          "weights": [5, 1, 2, 3, 2]
+        },
+        {
+          "text": "💨 Súper velocidad para llegar a cualquier lugar en segundos",
+          "weights": [2, 5, 2, 4, 3]
+        },
+        {
+          "text": "✨ Materializar cualquier objeto lujoso que desees",
+          "weights": [1, 2, 5, 2, 3]
+        },
+        {
+          "text": "🔄 Adaptarte perfectamente a cualquier situación o ambiente",
+          "weights": [3, 3, 2, 5, 3]
+        },
+        {
+          "text": "🧠 Controlar cualquier dispositivo electrónico con la mente",
+          "weights": [2, 3, 3, 2, 5]
+        }
+      ]
+    }
+  ]
+}
