@@ -1,7 +1,18 @@
-python_version = "3.9"
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
 
-[tool.streamlit]
-server.headless = true
-server.port = 8501
-server.enableCORS = false
-browser.gatherUsageStats = false
+[project]
+name = "auto-personality-app"
+description = "Una aplicación divertida que encuentra tu auto ideal basándose en tu personalidad"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "streamlit>=1.28.0",
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "pillow>=10.0.0",
+    "plotly>=5.15.0",
+    "requests>=2.31.0"
+]
+
+[tool.setuptools_scm]
