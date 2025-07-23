@@ -6,6 +6,12 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 🌐 Probar la App
+
+🚀 **[PROBAR ONLINE →](https://auto-personality-app.streamlit.app)** *(Una vez desplegada)*
+
+💻 **Desarrollo local**: `streamlit run app.py`
+
 ## 📝 Descripción
 
 Auto Personality App es una aplicación web interactiva que recomienda el auto perfecto para ti basándose en tus respuestas a preguntas divertidas y curiosas sobre tu estilo de vida y preferencias.
