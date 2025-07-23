@@ -8,9 +8,12 @@
 
 ## 🌐 Probar la App
 
-🚀 **[PROBAR ONLINE →](https://auto-personality-app.streamlit.app)** *(Una vez desplegada)*
+🚀 **[PROBAR ONLINE →](https://auto-personality-app.streamlit.app)** *(Desplegando...)*
 
 💻 **Desarrollo local**: `streamlit run app.py`
+
+### 📱 Para compartir con amigos:
+Una vez desplegada, simplemente comparte la URL: `https://auto-personality-app.streamlit.app`
 
 ## 📝 Descripción
 
